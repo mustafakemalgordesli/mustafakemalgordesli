@@ -6,7 +6,7 @@ Hi 👋 My name is Mustafa Kemal Gördesli
 
 I've been working on vanilla javascript and node.js lately.
 
-* 🌍  I'm based in Balıkesir
+* 🌍  I'm based in Balıkesir/Turkey
 * ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
 * 🧠  I'm learning Nodejs and .NET
 
@@ -32,7 +32,7 @@ I've been working on vanilla javascript and node.js lately.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mustafakemalgordesli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mustafakemalgordesli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@mustafakemalgordesli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC9jPtLBd0UsaFU0pOkVdIYg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/mustafakemalgordesli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mustafakemalgordesli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@mustafakemalgordesli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
