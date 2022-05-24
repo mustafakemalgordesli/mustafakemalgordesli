@@ -6,7 +6,7 @@ Hi 👋 My name is Mustafa Kemal Gördesli
 
 I am a Computer Engineering Student at Balıkesir University. I've been working on vanilla javascript and node.js lately.
 
-* 🌍  I'm based in Türkiye
+* 🌍  I'm based in Balıkesir/Turkey
 * ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
 * 🧠  I'm learning Nodejs and .NET
 
