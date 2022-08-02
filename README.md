@@ -8,7 +8,7 @@ I am a Computer Engineering Student at Balıkesir University. I've been working 
 
 * 🌍  I'm based in Balıkesir/Turkey
 * ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
-* 🧠  I'm learning Nodejs and .NET
+* 🧠  I'm learning Javascript and .NET
 
 ### Skills
 
