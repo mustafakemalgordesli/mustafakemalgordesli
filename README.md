@@ -4,7 +4,8 @@ Hi 👋 My name is Mustafa Kemal Gördesli
 Backend Developer
 -----------------
 
-I am a Computer Engineering Student at Balıkesir University. I've been working on .NET Core and Python.
+I am a Computer Engineering Student at Balıkesir University. 
+I've been working on .NET Core and Python.
 
 * 🌍  I'm based in Balıkesir/Turkey
 * ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
