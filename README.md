@@ -1,8 +1,7 @@
 Hi 👋 My name is Mustafa Kemal Gördesli
 =======================================
-
-Backend Developer
------------------
+University of Balikesir/3rd year | Computer Engineering
+--------------------------------
 
 I am a Computer Engineering Student at Balıkesir University. <br>
 I've been working on .NET Core and Python.
