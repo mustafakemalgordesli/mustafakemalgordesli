@@ -1,6 +1,6 @@
 Hi 👋 My name is Mustafa Kemal Gördesli
 =======================================
-University of Balikesir/3rd year | Computer Engineering
+Student of Computer Engineering/3rd year 
 --------------------------------
 
 I am a Computer Engineering Student at Balıkesir University. <br>
