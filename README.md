@@ -4,11 +4,11 @@ Student of Computer Engineering/4th year
 --------------------------------
 
 I am a Computer Engineering Student at Balıkesir University. <br>
-I've been working on .NET Core and Python.
+I've been working on .NET Core and React.
 
 * 🌍  I'm based in Balıkesir/Turkey
 * ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Nextjs
 
 ### Skills
 
