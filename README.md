@@ -7,7 +7,7 @@ I am a Computer Engineering Student at Balıkesir University. <br>
 I've been working on .NET Core and React.
 
 * 🌍  I'm based in Balıkesir/Turkey
-* ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
+* ✉️  You can contact me at [me@mustafagordesli.com.tr](mailto:me@mustafagordesli.com.tr)
 * 🧠  I'm learning Nextjs
 
 ### Skills
