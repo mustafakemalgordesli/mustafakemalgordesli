@@ -1,4 +1,4 @@
-Hi 👋 My name is Mustafa Kemal Gördesli
+Hi 👋 My name is Mustafa Kemal Gordesli
 =======================================
 Student of Computer Engineering/4th year 
 --------------------------------
