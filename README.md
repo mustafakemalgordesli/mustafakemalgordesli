@@ -1,14 +1,14 @@
 Hi 👋 My name is Mustafa Kemal Gordesli
 =======================================
-Student of Computer Engineering/4th year 
+Backend Developer & Computer Engineer
 --------------------------------
 
-I am a Computer Engineering Student at Balıkesir University. <br>
+I work as a Software Developer Intern at @DogusTeknoloji. <br>
 I've been working on .NET Core and React.
 
 * 🌍  I'm based in Balıkesir/Turkey
-* ✉️  You can contact me at [me@mustafagordesli.com.tr](mailto:me@mustafagordesli.com.tr)
-* 🧠  I'm learning Nextjs
+* ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
+* 🧠  I'm learning NLP, LLM & Artificial Intelligence
 
 ### Skills
 
