@@ -3,7 +3,7 @@ Hi 👋 My name is Mustafa Kemal Gordesli
 Backend Developer & Computer Engineer
 --------------------------------
 
-I work as a Software Developer Intern at @DogusTeknoloji. <br>
+I work as a Software Developer Intern at [Dogus Teknoloji](https://www.d-teknoloji.com.tr/). <br>
 I've been working on .NET Core and React.
 
 * 🌍  I'm based in Balıkesir/Turkey
