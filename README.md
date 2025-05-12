@@ -6,7 +6,7 @@ Backend Developer & Computer Engineer
 I work as a Software Developer. <br>
 I've been working on .NET Core and React.
 
-* 🌍  I'm based in Balıkesir/Turkey
+* 🌍  I'm based in Izmir/Turkey
 * ✉️  You can contact me at [m.kemalgordesli@gmail.com](mailto:m.kemalgordesli@gmail.com)
 * 🧠  I'm learning NLP, LLM & Artificial Intelligence
 
